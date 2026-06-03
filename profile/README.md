@@ -1,26 +1,6 @@
 <img width="2172" height="724" alt="ChatGPT Image Jun 3, 2026, 04_44_42 PM" src="https://github.com/user-attachments/assets/49041a75-3a50-4f2f-87de-00fd9e8fb30f" />
 
-### FLYTE AI
-
----
-
-## Vision
-
-To make AI accessible, practical, and valuable for every business — from traditional manufacturers and trading companies to modern organizations looking to leverage intelligent systems.
-
----
-
-## About
-
-Most businesses don't need more software.
-
-They need better systems.
-
-Flyte AI builds custom AI solutions, software, workflow automations, and intelligent integrations that help businesses operate more efficiently, make better decisions, and scale faster.
-
-We work with organizations that rely on everything from spreadsheets and WhatsApp to ERP systems and modern SaaS platforms, designing solutions around their existing operations instead of forcing complete replacements.
-
----
+### FLYTE AI — A Product Lab & AI Solutions Agency
 
 ## What We Build
 
