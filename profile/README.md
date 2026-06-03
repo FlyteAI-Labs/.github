@@ -1,7 +1,7 @@
-<img width="1254" height="1254" alt="ChatGPT Image Jun 2, 2026, 04_47_03 PM" src="https://github.com/user-attachments/assets/6834f52f-56cc-4166-8c1a-ea6c699568cd" />
-# Flyte AI
+<img width="1254" height="1254" alt="ChatGPT Image Jun 2, 2026, 04_47_03 PM" src="https://github.com/user-attachments/assets/e516e4e2-0fd4-44d5-bcbe-7582782ec3b2" />
 
-### Building practical AI solutions for businesses.
+
+### FLYTE AI
 
 ---
 
@@ -58,33 +58,6 @@ Most ideas remain experiments.
 A few become products.
 
 The best ones become companies.
-
----
-
-## Industries & Use Cases
-
-### Manufacturing
-
-* Inventory Management
-* Production Tracking
-* Dispatch Management
-* Dealer Operations
-* Business Reporting
-
-### Trading & Distribution
-
-* Order Management
-* Inventory Visibility
-* Process Automation
-* Operational Analytics
-
-### Business Operations
-
-* Workflow Automation
-* Internal Systems
-* Reporting Dashboards
-* AI-Powered Business Processes
-
 ---
 
 ## Our Approach
@@ -101,21 +74,7 @@ Instead of replacing existing workflows, we focus on:
 * Improving visibility
 * Leveraging AI where it creates real value
 
----
 
-## Technology
-
-* OpenAI
-* n8n
-* OpenClaw
-* React
-* Node.js
-* PostgreSQL
-* MongoDB
-* REST APIs
-* Cloud Infrastructure
-
----
 
 ## Long-Term Goal
 
