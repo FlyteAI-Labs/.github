@@ -1,5 +1,4 @@
-<img width="1254" height="1254" alt="ChatGPT Image Jun 2, 2026, 04_47_03 PM" src="https://github.com/user-attachments/assets/e516e4e2-0fd4-44d5-bcbe-7582782ec3b2" />
-
+<img width="2172" height="724" alt="ChatGPT Image Jun 3, 2026, 04_44_42 PM" src="https://github.com/user-attachments/assets/49041a75-3a50-4f2f-87de-00fd9e8fb30f" />
 
 ### FLYTE AI
 
